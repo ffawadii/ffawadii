@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fawad!
 - 👀 I’m interested in Python and MERN STACK
-- 🌱 I’m currently learning Node & REACT
+- 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on MERN STACK Projects
 - 📫 How to reach me ifawad@protonmail.com
 
